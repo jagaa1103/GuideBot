@@ -13,6 +13,9 @@
 		11216D451E9F805A00288844 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11216D441E9F805A00288844 /* Assets.xcassets */; };
 		11216D481E9F805A00288844 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11216D461E9F805A00288844 /* LaunchScreen.storyboard */; };
 		11216D531E9F805A00288844 /* GuideBotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11216D521E9F805A00288844 /* GuideBotUITests.swift */; };
+		115F25F31E9F87C000B99024 /* DataBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115F25F21E9F87C000B99024 /* DataBridge.swift */; };
+		2B220D648D3A5FF3B1C77EFA /* Pods_GuideBotUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3043DDD9FC96127362127F30 /* Pods_GuideBotUITests.framework */; };
+		E8E71BF65B576E986B245505 /* Pods_GuideBot.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADFD151E60178340720CDDFF /* Pods_GuideBot.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,13 @@
 		11216D4E1E9F805A00288844 /* GuideBotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuideBotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11216D521E9F805A00288844 /* GuideBotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideBotUITests.swift; sourceTree = "<group>"; };
 		11216D541E9F805A00288844 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		115F25F21E9F87C000B99024 /* DataBridge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataBridge.swift; sourceTree = "<group>"; };
+		1212A638A8C729153B784DC7 /* Pods-GuideBot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBot.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.debug.xcconfig"; sourceTree = "<group>"; };
+		3043DDD9FC96127362127F30 /* Pods_GuideBotUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuideBotUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F59D0EE929E2B948A26E724 /* Pods-GuideBotUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBotUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.release.xcconfig"; sourceTree = "<group>"; };
+		6120FC632F61C103F2D633B4 /* Pods-GuideBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBot.release.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.release.xcconfig"; sourceTree = "<group>"; };
+		ADFD151E60178340720CDDFF /* Pods_GuideBot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuideBot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCFD2F07985FFDCDDB2F70D1 /* Pods-GuideBotUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBotUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8E71BF65B576E986B245505 /* Pods_GuideBot.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -50,6 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B220D648D3A5FF3B1C77EFA /* Pods_GuideBotUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +74,8 @@
 				11216D3C1E9F805A00288844 /* GuideBot */,
 				11216D511E9F805A00288844 /* GuideBotUITests */,
 				11216D3B1E9F805A00288844 /* Products */,
+				BD6639E549DF5800BD52D9B8 /* Pods */,
+				3D79DF480CEB5D656B5A6E9A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,6 +93,7 @@
 			children = (
 				11216D3D1E9F805A00288844 /* AppDelegate.swift */,
 				11216D3F1E9F805A00288844 /* ViewController.swift */,
+				115F25F21E9F87C000B99024 /* DataBridge.swift */,
 				11216D411E9F805A00288844 /* Main.storyboard */,
 				11216D441E9F805A00288844 /* Assets.xcassets */,
 				11216D461E9F805A00288844 /* LaunchScreen.storyboard */,
@@ -96,6 +111,26 @@
 			path = GuideBotUITests;
 			sourceTree = "<group>";
 		};
+		3D79DF480CEB5D656B5A6E9A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ADFD151E60178340720CDDFF /* Pods_GuideBot.framework */,
+				3043DDD9FC96127362127F30 /* Pods_GuideBotUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BD6639E549DF5800BD52D9B8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1212A638A8C729153B784DC7 /* Pods-GuideBot.debug.xcconfig */,
+				6120FC632F61C103F2D633B4 /* Pods-GuideBot.release.xcconfig */,
+				CCFD2F07985FFDCDDB2F70D1 /* Pods-GuideBotUITests.debug.xcconfig */,
+				4F59D0EE929E2B948A26E724 /* Pods-GuideBotUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -103,9 +138,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 11216D571E9F805A00288844 /* Build configuration list for PBXNativeTarget "GuideBot" */;
 			buildPhases = (
+				C9A298DE1561D02E4F20B92D /* [CP] Check Pods Manifest.lock */,
 				11216D361E9F805A00288844 /* Sources */,
 				11216D371E9F805A00288844 /* Frameworks */,
 				11216D381E9F805A00288844 /* Resources */,
+				743080B45ABD24EF1B6D1997 /* [CP] Embed Pods Frameworks */,
+				E5E53343494426AD9FE74286 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -120,9 +158,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 11216D5A1E9F805A00288844 /* Build configuration list for PBXNativeTarget "GuideBotUITests" */;
 			buildPhases = (
+				8CC9527E0DBEE589D998360E /* [CP] Check Pods Manifest.lock */,
 				11216D4A1E9F805A00288844 /* Sources */,
 				11216D4B1E9F805A00288844 /* Frameworks */,
 				11216D4C1E9F805A00288844 /* Resources */,
+				731A4DA887D56BEB5CD8A82C /* [CP] Embed Pods Frameworks */,
+				3FBF252D36518C31D08104F4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -196,6 +237,99 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3FBF252D36518C31D08104F4 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		731A4DA887D56BEB5CD8A82C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		743080B45ABD24EF1B6D1997 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8CC9527E0DBEE589D998360E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C9A298DE1561D02E4F20B92D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		E5E53343494426AD9FE74286 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		11216D361E9F805A00288844 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -203,6 +337,7 @@
 			files = (
 				11216D401E9F805A00288844 /* ViewController.swift in Sources */,
 				11216D3E1E9F805A00288844 /* AppDelegate.swift in Sources */,
+				115F25F31E9F87C000B99024 /* DataBridge.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +474,7 @@
 		};
 		11216D581E9F805A00288844 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1212A638A8C729153B784DC7 /* Pods-GuideBot.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = J82E7D76Q3;
@@ -352,6 +488,7 @@
 		};
 		11216D591E9F805A00288844 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6120FC632F61C103F2D633B4 /* Pods-GuideBot.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = J82E7D76Q3;
@@ -365,6 +502,7 @@
 		};
 		11216D5B1E9F805A00288844 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CCFD2F07985FFDCDDB2F70D1 /* Pods-GuideBotUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = J82E7D76Q3;
@@ -379,6 +517,7 @@
 		};
 		11216D5C1E9F805A00288844 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F59D0EE929E2B948A26E724 /* Pods-GuideBotUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = J82E7D76Q3;
@@ -410,6 +549,7 @@
 				11216D591E9F805A00288844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		11216D5A1E9F805A00288844 /* Build configuration list for PBXNativeTarget "GuideBotUITests" */ = {
 			isa = XCConfigurationList;
@@ -418,6 +558,7 @@
 				11216D5C1E9F805A00288844 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
