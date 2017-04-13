@@ -14,6 +14,8 @@
 		11216D481E9F805A00288844 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11216D461E9F805A00288844 /* LaunchScreen.storyboard */; };
 		11216D531E9F805A00288844 /* GuideBotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11216D521E9F805A00288844 /* GuideBotUITests.swift */; };
 		115F25F31E9F87C000B99024 /* DataBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115F25F21E9F87C000B99024 /* DataBridge.swift */; };
+		115F25F51E9F928D00B99024 /* LoginService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115F25F41E9F928D00B99024 /* LoginService.swift */; };
+		115F25F71E9F97B100B99024 /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115F25F61E9F97B100B99024 /* LoginPage.swift */; };
 		2B220D648D3A5FF3B1C77EFA /* Pods_GuideBotUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3043DDD9FC96127362127F30 /* Pods_GuideBotUITests.framework */; };
 		E8E71BF65B576E986B245505 /* Pods_GuideBot.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADFD151E60178340720CDDFF /* Pods_GuideBot.framework */; };
 /* End PBXBuildFile section */
@@ -40,6 +42,8 @@
 		11216D521E9F805A00288844 /* GuideBotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideBotUITests.swift; sourceTree = "<group>"; };
 		11216D541E9F805A00288844 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		115F25F21E9F87C000B99024 /* DataBridge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataBridge.swift; sourceTree = "<group>"; };
+		115F25F41E9F928D00B99024 /* LoginService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginService.swift; sourceTree = "<group>"; };
+		115F25F61E9F97B100B99024 /* LoginPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
 		1212A638A8C729153B784DC7 /* Pods-GuideBot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBot.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.debug.xcconfig"; sourceTree = "<group>"; };
 		3043DDD9FC96127362127F30 /* Pods_GuideBotUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GuideBotUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F59D0EE929E2B948A26E724 /* Pods-GuideBotUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuideBotUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -98,6 +102,8 @@
 				11216D441E9F805A00288844 /* Assets.xcassets */,
 				11216D461E9F805A00288844 /* LaunchScreen.storyboard */,
 				11216D491E9F805A00288844 /* Info.plist */,
+				115F25F41E9F928D00B99024 /* LoginService.swift */,
+				115F25F61E9F97B100B99024 /* LoginPage.swift */,
 			);
 			path = GuideBot;
 			sourceTree = "<group>";
@@ -338,6 +344,8 @@
 				11216D401E9F805A00288844 /* ViewController.swift in Sources */,
 				11216D3E1E9F805A00288844 /* AppDelegate.swift in Sources */,
 				115F25F31E9F87C000B99024 /* DataBridge.swift in Sources */,
+				115F25F71E9F97B100B99024 /* LoginPage.swift in Sources */,
+				115F25F51E9F928D00B99024 /* LoginService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -6,6 +6,9 @@ target 'GuideBot' do
   use_frameworks!
 
   # Pods for GuideBot
+  pod 'FacebookCore'
+  pod 'FacebookLogin'
+  pod 'FacebookShare'
   pod 'Firebase/Storage'
   pod 'Firebase/Auth'
   pod 'Firebase/Database'
