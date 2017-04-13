@@ -1,0 +1,623 @@
+GuideBot/GuideBot.xcworkspace/contents.xcworkspacedata
+GuideBot/GuideBot.xcworkspace/xcuserdata/jagaa.xcuserdatad/UserInterfaceState.xcuserstate
+GuideBot/GuideBot.xcworkspace/xcuserdata/jagaa.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+GuideBot/Pods/Bolts/LICENSE
+GuideBot/Pods/Bolts/README.md
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationToken.h
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationToken.m
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.m
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h
+GuideBot/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.m
+GuideBot/Pods/Bolts/Bolts/Common/BFExecutor.h
+GuideBot/Pods/Bolts/Bolts/Common/BFExecutor.m
+GuideBot/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h
+GuideBot/Pods/Bolts/Bolts/Common/BFTask+Exceptions.m
+GuideBot/Pods/Bolts/Bolts/Common/BFTask.h
+GuideBot/Pods/Bolts/Bolts/Common/BFTask.m
+GuideBot/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h
+GuideBot/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.m
+GuideBot/Pods/Bolts/Bolts/Common/Bolts.h
+GuideBot/Pods/Bolts/Bolts/Common/Bolts.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLink.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLink.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFURL.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFURL.m
+GuideBot/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h
+GuideBot/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.m
+GuideBot/Pods/Bolts/Bolts/iOS/Internal/BFAppLink_Internal.h
+GuideBot/Pods/Bolts/Bolts/iOS/Internal/BFAppLinkReturnToRefererView_Internal.h
+GuideBot/Pods/Bolts/Bolts/iOS/Internal/BFMeasurementEvent_Internal.h
+GuideBot/Pods/Bolts/Bolts/iOS/Internal/BFURL_Internal.h
+GuideBot/Pods/FacebookCore/LICENSE
+GuideBot/Pods/FacebookCore/README.md
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.Builtin.swift
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.swift
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEventName.swift
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEventParameterName.swift
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEventsLogger.FlushBehavior.swift
+GuideBot/Pods/FacebookCore/Sources/Core/AppEvents/AppEventsLogger.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Common/AccessToken.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Common/SDKApplicationDelegate.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Common/SDKLoggingBehavior.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Common/SDKSettings.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphAPIVersion.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequest.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestConnection.Delegate.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestConnection.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestDataAttachment.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestProtocol.Bridge.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestProtocol.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestResult.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphResponse.swift
+GuideBot/Pods/FacebookCore/Sources/Core/GraphRequest/GraphResponseProtocol.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Internal/Extensions/Dictionary+KeyValueMap.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Internal/Extensions/Optional+OnSome.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Permissions/Permission.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Permissions/PublishPermission.swift
+GuideBot/Pods/FacebookCore/Sources/Core/Permissions/ReadPermission.swift
+GuideBot/Pods/FacebookCore/Sources/Core/UserProfile/UserProfile.FetchResult.swift
+GuideBot/Pods/FacebookCore/Sources/Core/UserProfile/UserProfile.PictureView.swift
+GuideBot/Pods/FacebookCore/Sources/Core/UserProfile/UserProfile.swift
+GuideBot/Pods/FacebookLogin/LICENSE
+GuideBot/Pods/FacebookLogin/README.md
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginButton.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginManager.swift
+GuideBot/Pods/FacebookLogin/Sources/Login/LoginResult.swift
+GuideBot/Pods/FacebookShare/LICENSE
+GuideBot/Pods/FacebookShare/README.md
+GuideBot/Pods/FacebookShare/Sources/Share/ShareError.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content Sharing/ContentSharingProtocol.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content Sharing/GraphSharer.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Common/ContentProtocol.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Common/ContentSharingResultProtocol.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Common/Hashtag.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Common/PostSharingResult.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Link/LinkShareContent.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphAction.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphObject.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphPropertyContaining.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphPropertyName.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphPropertyValue.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphShareContent.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Photo/Photo.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Photo/PhotoShareContent.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Video/Video.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Content/Video/VideoShareContent.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/ContentSharingDialogProtocol.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.DeliveryMethod.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.Dialog.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.PromoCode.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.Result.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.SDKDelegate.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/AppInvite/AppInvite.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.ActionType.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Dialog.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Recipient.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.RecipientsFilter.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Result.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.SDKDelegate.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/MessageDialog/MessageDialog.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/ShareDialog/ShareDialog.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Dialogs/ShareDialog/ShareDialogMode.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Internal/Constants.Internal.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Internal/ContentBridger.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Internal/SDKSharingDelegateBridge.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/LikableObject.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/LikeButton.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/LikeControl.AuxilaryStyle.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/LikeControl.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/SendButton.swift
+GuideBot/Pods/FacebookShare/Sources/Share/Views/ShareButton.swift
+GuideBot/Pods/FBSDKCoreKit/LICENSE
+GuideBot/Pods/FBSDKCoreKit/README.mdown
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/af.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ar.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/bn.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/cs.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/da.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/de.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/el.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/en_GB.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/es_ES.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fi.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fil.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/fr.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/gu.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/he.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hi.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hr.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/hu.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/id.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/it.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ja.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/kn.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ko.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ml.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/mr.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ms.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nb.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/nl.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pa.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pl.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/pt_PT.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ru.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sk.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/sv.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/ta.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/te.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/th.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/tr.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/vi.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_HK.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FacebookSDKStrings.bundle/Resources/zh_Hant_TW.lproj/FacebookSDK.strings
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKApplicationDelegate+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKAudioResourceLoader.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKAudioResourceLoader.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKContainerViewController.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKContainerViewController.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKCoreKit+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDeviceRequestsHelper.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDeviceRequestsHelper.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKDynamicFrameworkLoader.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKError.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKError.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKImageDownloader.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKImageDownloader.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKInternalUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKInternalUtility.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLogger.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKLogger.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMath.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMath.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMonotonicTime.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKMonotonicTime.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKProfile+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSettings+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSystemAccountStoreAdapter.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKSystemAccountStoreAdapter.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTriStateBOOL.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTriStateBOOL.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTypeUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKTypeUtility.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEvents+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsDeviceInfo.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsDeviceInfo.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsState.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsState.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsStateManager.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsStateManager.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKAppEventsUtility.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKPaymentObserver.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKPaymentObserver.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKTimeSpentData.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppEvents/FBSDKTimeSpentData.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppLink/FBSDKBoltsMeasurementEventListener.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/AppLink/FBSDKBoltsMeasurementEventListener.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Base64/FBSDKBase64.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Base64/FBSDKBase64.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPICrypto.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPICrypto.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIProtocol.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIProtocolType.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest+Private.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIRequest.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIResponse.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKBridgeAPIResponse.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/FBSDKURLOpening.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolNativeV1.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolNativeV1.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV1.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV1.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV2.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/BridgeAPI/ProtocolVersions/FBSDKBridgeAPIProtocolWebV2.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Cryptography/FBSDKCrypto.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Cryptography/FBSDKCrypto.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/_FBSDKTemporaryErrorRecoveryAttempter.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/_FBSDKTemporaryErrorRecoveryAttempter.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/FBSDKErrorRecoveryAttempter.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ErrorRecovery/FBSDKErrorRecoveryAttempter.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequest+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestBody.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestBody.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestConnection+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestMetadata.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestMetadata.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestPiggybackManager.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKGraphRequestPiggybackManager.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLConnection.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLConnection.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLSessionTask.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/Network/FBSDKURLSessionTask.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKDialogConfiguration.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKDialogConfiguration.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorConfiguration.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorConfiguration.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorRecoveryConfiguration.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKErrorRecoveryConfiguration.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfiguration.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager+Internal.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/ServerConfiguration/FBSDKServerConfigurationManager.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCache.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCache.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_17.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_17.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_21.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV3_21.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV4.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCacheV4.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKAccessTokenCaching.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStore.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStore.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStoreViaBundleID.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/TokenCaching/FBSDKKeychainStoreViaBundleID.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKButton+Subclass.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKCloseIcon.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKCloseIcon.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKColor.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKColor.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKIcon.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKIcon.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKLogo.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKLogo.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKMaleSilhouetteIcon.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKMaleSilhouetteIcon.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKUIUtility.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKViewImpressionTracker.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/UI/FBSDKViewImpressionTracker.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialog.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialog.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialogView.h
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/WebDialog/FBSDKWebDialogView.m
+GuideBot/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal_NoARC/FBSDKDynamicFrameworkLoader.m
+GuideBot/Pods/FBSDKLoginKit/LICENSE
+GuideBot/Pods/FBSDKLoginKit/README.mdown
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/_FBSDKLoginRecoveryAttempter.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/_FBSDKLoginRecoveryAttempter.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion+Internal.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginCompletion.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginError.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginError.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginKit+Internal.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManager+Internal.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLogger.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLogger.m
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginManagerLoginResult+Internal.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginUtility.h
+GuideBot/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/Internal/FBSDKLoginUtility.m
+GuideBot/Pods/FBSDKShareKit/LICENSE
+GuideBot/Pods/FBSDKShareKit/README.mdown
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupAddDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupAddDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupJoinDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupJoinDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeButton.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeButton.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeControl.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeControl.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKLiking.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharing.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingButton.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKSharingContent.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCheckmarkIcon.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKCheckmarkIcon.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKGameRequestFrictionlessRecipientCache.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKGameRequestFrictionlessRecipientCache.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionController.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionController.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionControllerCache.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeActionControllerCache.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxBorderView.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxBorderView.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxView.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeBoxView.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButton+Internal.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButtonPopWAV.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeButtonPopWAV.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeControl+Internal.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeDialog.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKLikeDialog.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKMessengerIcon.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKMessengerIcon.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareDefines.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareError.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareError.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareKit+Internal.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareLinkContent+Internal.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareOpenGraphValueContainer+Internal.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareUtility.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKShareUtility.m
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKVideoUploader.h
+GuideBot/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/Internal/FBSDKVideoUploader.m
+GuideBot/Pods/Firebase/README.md
+GuideBot/Pods/Firebase/Core/Sources/Firebase.h
+GuideBot/Pods/Firebase/Core/Sources/module.modulemap
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h
+GuideBot/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap
+GuideBot/Pods/FirebaseAuth/CHANGELOG.md
+GuideBot/Pods/FirebaseAuth/README.md
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/FirebaseAuth
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h
+GuideBot/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/FirebaseCore
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h
+GuideBot/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/FirebaseDatabase
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/NOTICE
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h
+GuideBot/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap
+GuideBot/Pods/FirebaseInstanceID/CHANGELOG.md
+GuideBot/Pods/FirebaseInstanceID/README.md
+GuideBot/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/FirebaseInstanceID
+GuideBot/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h
+GuideBot/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h
+GuideBot/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/FirebaseStorage
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h
+GuideBot/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap
+GuideBot/Pods/GoogleToolboxForMac/GTMDefines.h
+GuideBot/Pods/GoogleToolboxForMac/LICENSE
+GuideBot/Pods/GoogleToolboxForMac/README.md
+GuideBot/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+GuideBot/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+GuideBot/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.m
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.m
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+GuideBot/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.m
+GuideBot/Pods/GTMSessionFetcher/LICENSE
+GuideBot/Pods/GTMSessionFetcher/README.md
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.m
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.m
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.m
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+GuideBot/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.m
+GuideBot/Pods/Headers/Private/Firebase/Firebase.h
+GuideBot/Pods/Headers/Public/Firebase/Firebase.h
+GuideBot/Pods/Pods.xcodeproj/project.pbxproj
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/Bolts.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FacebookCore.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FacebookLogin.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FacebookShare.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FBSDKCoreKit.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FBSDKLoginKit.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/FBSDKShareKit.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/GoogleToolboxForMac.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/GTMSessionFetcher.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/Pods-GuideBot.xcscheme
+GuideBot/Pods/Pods.xcodeproj/xcuserdata/jagaa.xcuserdatad/xcschemes/Pods-GuideBotUITests.xcscheme
+GuideBot/Pods/Target Support Files/Bolts/Bolts-dummy.m
+GuideBot/Pods/Target Support Files/Bolts/Bolts-prefix.pch
+GuideBot/Pods/Target Support Files/Bolts/Bolts-umbrella.h
+GuideBot/Pods/Target Support Files/Bolts/Bolts.modulemap
+GuideBot/Pods/Target Support Files/Bolts/Bolts.xcconfig
+GuideBot/Pods/Target Support Files/FacebookCore/FacebookCore-dummy.m
+GuideBot/Pods/Target Support Files/FacebookCore/FacebookCore-prefix.pch
+GuideBot/Pods/Target Support Files/FacebookCore/FacebookCore-umbrella.h
+GuideBot/Pods/Target Support Files/FacebookCore/FacebookCore.modulemap
+GuideBot/Pods/Target Support Files/FacebookCore/FacebookCore.xcconfig
+GuideBot/Pods/Target Support Files/FacebookLogin/FacebookLogin-dummy.m
+GuideBot/Pods/Target Support Files/FacebookLogin/FacebookLogin-prefix.pch
+GuideBot/Pods/Target Support Files/FacebookLogin/FacebookLogin-umbrella.h
+GuideBot/Pods/Target Support Files/FacebookLogin/FacebookLogin.modulemap
+GuideBot/Pods/Target Support Files/FacebookLogin/FacebookLogin.xcconfig
+GuideBot/Pods/Target Support Files/FacebookShare/FacebookShare-dummy.m
+GuideBot/Pods/Target Support Files/FacebookShare/FacebookShare-prefix.pch
+GuideBot/Pods/Target Support Files/FacebookShare/FacebookShare-umbrella.h
+GuideBot/Pods/Target Support Files/FacebookShare/FacebookShare.modulemap
+GuideBot/Pods/Target Support Files/FacebookShare/FacebookShare.xcconfig
+GuideBot/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-dummy.m
+GuideBot/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-prefix.pch
+GuideBot/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h
+GuideBot/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit.modulemap
+GuideBot/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit.xcconfig
+GuideBot/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-dummy.m
+GuideBot/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch
+GuideBot/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h
+GuideBot/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit.modulemap
+GuideBot/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit.xcconfig
+GuideBot/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-dummy.m
+GuideBot/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-prefix.pch
+GuideBot/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit-umbrella.h
+GuideBot/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit.modulemap
+GuideBot/Pods/Target Support Files/FBSDKShareKit/FBSDKShareKit.xcconfig
+GuideBot/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-dummy.m
+GuideBot/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-prefix.pch
+GuideBot/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h
+GuideBot/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.modulemap
+GuideBot/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.xcconfig
+GuideBot/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-dummy.m
+GuideBot/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch
+GuideBot/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h
+GuideBot/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap
+GuideBot/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.xcconfig
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-acknowledgements.markdown
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-dummy.m
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-resources.sh
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot-umbrella.h
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.debug.xcconfig
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.modulemap
+GuideBot/Pods/Target Support Files/Pods-GuideBot/Pods-GuideBot.release.xcconfig
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-acknowledgements.markdown
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-dummy.m
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-frameworks.sh
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-resources.sh
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests-umbrella.h
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.debug.xcconfig
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.modulemap
+GuideBot/Pods/Target Support Files/Pods-GuideBotUITests/Pods-GuideBotUITests.release.xcconfig
