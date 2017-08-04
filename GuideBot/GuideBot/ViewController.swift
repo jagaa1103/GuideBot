@@ -13,9 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        if !LoginService.instance.isLoggedIn() { LoginService.instance.setLoginButton(view: self.view) }
+        if !LoginService.instance.isLoggedIn() {
+//            LoginService.instance.setLoginButton(view: self.view)
+            LoginService.instance.showLoginView(view: self)
+        }
     }
-
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
     }
